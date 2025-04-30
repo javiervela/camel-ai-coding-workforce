@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "camel-ai-coding-workforce"
+version = "0.1.0"
+description = ""
+authors = ["Javier Vela <javier.vela00@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.12,<3.13"
+camel-ai = {extras = ["all"], version = "^0.2.49"}
+streamlit = "^1.45.0"
+markdown = "^3.8"
+python-dotenv = "^1.1.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
