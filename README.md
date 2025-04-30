@@ -1,5 +1,7 @@
 # CAMEL-AI Coding Workforce
 
+![](images/logo.png)
+
 This repository implements a **Multi-Agent System** using the **CAMEL-AI** framework, where specialized **LLM-based agents** collaborate to generate, review, document, test, and evaluate code. It includes a **Streamlit interface** for task input, live logging, and result visualization.
 
 ## Features
@@ -30,7 +32,6 @@ This repository implements a **Multi-Agent System** using the **CAMEL-AI** frame
 3. Set up environment variables: Create a `.env` file in the root directory and configure any necessary environment variables like `OPENAI_API_KEY`. For example:
    ```env
    OPENAI_API_KEY=your_openai_api_key
-   CAMEL_API_URL=http://localhost:8000
    ```
 
 ## Usage
