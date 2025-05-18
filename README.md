@@ -1,6 +1,6 @@
 # CAMEL-AI Coding Workforce
 
-![](images/logo.png)
+![CAMEL-AI Coding Workforce's Camels](images/logo2_camels.png)
 
 This repository implements a **Multi-Agent System** using the **CAMEL-AI** framework, where specialized **LLM-based agents** collaborate to generate, review, document, test, and evaluate code. It includes a **Streamlit interface** for task input, live logging, and result visualization.
 
